@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "T:\\\\Arduino\\\\tools\\\\**",
+                "T:\\\\Arduino\\\\hardware\\\\arduino\\\\avr\\\\**"
+            ],
+            "forcedInclude": [
+                "T:\\\\Arduino\\\\hardware\\\\arduino\\\\avr\\\\cores\\\\arduino\\\\Arduino.h"
+            ],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
